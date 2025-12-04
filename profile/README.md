@@ -1,10 +1,8 @@
-# Databasin AI
-
-Welcome to the Databasin AI organization! 🚀
+Welcome to the Databasin GitHub organization! 🚀
 
 ## About Us
 
-This organization hosts the open source tools produced by the Databasin team to integrate and extend the capabilities of the [Databasin platform](https://databasin.ai/).
+This organization hosts the open source tools managed by the Databasin team to integrate and extend the capabilities of the [Databasin platform](https://databasin.ai/).
 
 ## What is Databasin?
 
@@ -26,4 +24,4 @@ Our open source repositories provide tools and integrations that enhance the Dat
 
 ## Connect With Us
 
-We're excited to have you here! Feel free to explore our repositories, open issues, or submit pull requests to help improve our tools.
+We're excited to have you here! Feel free to explore our repositories, open issues, or submit pull requests to help improve our tools. If you want to know more about the Databasin platform, please feel free to  [Contact Us](https://databasin.ai/contact-us) on our website.
